@@ -13,6 +13,6 @@ TODO:
 - implement a loop for the user to be able to do math with the previous answer
 - implement a char system to be able to input multiple operations in one input
 
-  V2 TODO:
-  - graphing with matplotlib
-  - implement a formula system where certain equations can be done automatically just by selecting the desired output variable (energy, force, velocity, acceleration, etc.), and by selecting the variables that are already known to the user. For example: desired veriable: the delta time; known veriables by the user: speed, initial time, initial position, end position.
+V2 TODO:
+- graphing with matplotlib
+- implement a formula system where certain equations can be done automatically just by selecting the desired output variable (energy, force, velocity, acceleration, etc.), and by selecting the variables that are already known to the user. For example: desired veriable: the delta time; known veriables by the user: speed, initial time, initial position, end position.
