@@ -16,3 +16,7 @@ TODO:
 V2 TODO:
 - graphing with matplotlib
 - implement a formula system where certain equations can be done automatically just by selecting the desired output variable (energy, force, velocity, acceleration, etc.), and by selecting the variables that are already known to the user. For example: desired veriable: the delta time; known veriables by the user: speed, initial time, initial position, end position.
+- derivatives
+- integrals
+
+Intended end purpose: Physics exercises
